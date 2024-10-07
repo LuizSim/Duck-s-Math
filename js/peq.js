@@ -24,12 +24,12 @@ const questions = [
         answer: 1
     },
     {
-        question: "Qual é a soma das raízes do polinômio P(x) = x³ - 6x² + 11x - 6?",
+        question: "Qual é a soma dos expoentes do polinômio P(x) = x³ - 6x² + 11x - 6?",
         options: ["6", "0", "3"],
         answer: 0
     },
     {
-        question: "Se P(x) = x³ - 3x² - 4x + 12, qual é uma das raízes reais desse polinômio?",
+        question: "Se P(x) = x³ - 3x² - 4x + 12, qual é um dos expoentes reais desse polinômio?",
         options: ["x = 2", "x = -2", "x = 3"],
         answer: 2
     },
@@ -61,7 +61,7 @@ const questions = [
     {
         question: "Qual é a equação do plano que passa pelos pontos A(1,0,0), B(0,1,0) e C(0,0,1)?",
         options: ["x + y + z = 1", "x - y + z = 0", "x + y + z = 0"],
-        answer: 2
+        answer: 0
     },
     {
         question: "Se z = 2 + 3i, qual é o conjugado de z?",
