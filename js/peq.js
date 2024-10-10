@@ -29,9 +29,9 @@ const questions = [
         answer: 0
     },
     {
-        question: "Se P(x) = x³ - 3x² - 4x + 12, qual é um dos expoentes reais desse polinômio?",
-        options: ["x = 2", "x = -2", "x = 3"],
-        answer: 2
+        question: "Um cilindro reto tem altura de 12 cm e raio da base de 5 cm. Qual é o volume desse cilindro?",
+        options: ["150πcm3", "300πcm3", "600πcm3"],
+        answer: 1
     },
     {
         question: "O que representa a parte imaginária de um número complexo z = a + bi?",
